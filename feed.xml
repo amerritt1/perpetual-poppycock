@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Perpetual Poppycock</title>
-  <subtitle>Makes developing websites simple.</subtitle>
+  <subtitle>For those suffering with decision, indecision.</subtitle>
   <id>http://perpetualpoppycock.com</id>
   <link href="http://perpetualpoppycock.com"/>
   <link href="http://perpetualpoppycock.com/feed.xml" rel="self"/>
@@ -14,11 +14,13 @@
     <link rel="alternate" href="http://perpetualpoppycock.com/2017/02/27/three-and-a-half-months-and-low-carb-strong/"/>
     <id>http://perpetualpoppycock.com/2017/02/27/three-and-a-half-months-and-low-carb-strong/</id>
     <published>2017-02-26T18:00:00-06:00</published>
-    <updated>2017-02-27T14:54:54-06:00</updated>
+    <updated>2017-02-27T15:50:07-06:00</updated>
     <author>
       <name>Ashley Whitcher</name>
     </author>
-    <summary type="html">It seems almost impossible to believe but I have been doing low carb, almost every day, for 3.5 months. That has to be some kind of all time life achievement for me. I do not do anything long term. I am a quitter, generally speaking and as you know I</summary>
+    <summary type="html">It seems almost impossible to believe but I have been doing low carb, for 3.5 months. That has to be some kind of life achievement for me. I don’t anything long term. I am a quitter, generally speaking, and as you know I suffer severly from PPS.
+
+This</summary>
   </entry>
   <entry>
     <title>3.5 weeks and 20 pounds later</title>
