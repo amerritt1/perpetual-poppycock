@@ -23,3 +23,6 @@ gem 'redcarpet', '~> 3.3.4'
 
 # For "summary"-Helper
 gem 'nokogiri', '~> 1.6.8'
+
+# For deploying
+gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
