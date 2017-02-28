@@ -5,16 +5,27 @@
   <id>http://perpetualpoppycock.com</id>
   <link href="http://perpetualpoppycock.com"/>
   <link href="http://perpetualpoppycock.com/feed.xml" rel="self"/>
-  <updated>2017-02-26T18:00:00-06:00</updated>
+  <updated>2017-02-27T18:00:00-06:00</updated>
   <author>
     <name>Ashley Whitcher</name>
   </author>
+  <entry>
+    <title>Let's try that again!</title>
+    <link rel="alternate" href="http://perpetualpoppycock.com/2017/02/28/lets-try-that-again/"/>
+    <id>http://perpetualpoppycock.com/2017/02/28/lets-try-that-again/</id>
+    <published>2017-02-27T18:00:00-06:00</published>
+    <updated>2017-02-28T15:35:48-06:00</updated>
+    <author>
+      <name>Ashley Whitcher</name>
+    </author>
+    <summary type="html">Full on PPS attack last night. Not only did I totally bail on any plans to work out after bedtime, I also did not even attempt personal time this morning due to an untimely bathroom break for my fur baby. Willy decided to wake up the entire house at 4</summary>
+  </entry>
   <entry>
     <title>3.5 months and low carb strong</title>
     <link rel="alternate" href="http://perpetualpoppycock.com/2017/02/27/three-and-a-half-months-and-low-carb-strong/"/>
     <id>http://perpetualpoppycock.com/2017/02/27/three-and-a-half-months-and-low-carb-strong/</id>
     <published>2017-02-26T18:00:00-06:00</published>
-    <updated>2017-02-27T15:50:07-06:00</updated>
+    <updated>2017-02-28T14:09:07-06:00</updated>
     <author>
       <name>Ashley Whitcher</name>
     </author>
@@ -27,7 +38,7 @@ This</summary>
     <link rel="alternate" href="http://perpetualpoppycock.com/2016/12/07/three-and-a-half-weeks-and-twenty-pounds-later/"/>
     <id>http://perpetualpoppycock.com/2016/12/07/three-and-a-half-weeks-and-twenty-pounds-later/</id>
     <published>2016-12-06T18:00:00-06:00</published>
-    <updated>2017-02-27T14:54:49-06:00</updated>
+    <updated>2017-02-28T14:09:06-06:00</updated>
     <author>
       <name>Ashley Whitcher</name>
     </author>
@@ -36,11 +47,11 @@ This</summary>
 The most amazing thing has happened. I woke up 3.5 weeks ago, the week before Thanksgiving otherwise known as the eating holiday, and I did a complete diet</summary>
   </entry>
   <entry>
-    <title>What Is Perpetual Poppycock</title>
+    <title>What Is Perpetual Poppycock?</title>
     <link rel="alternate" href="http://perpetualpoppycock.com/2016/07/15/what-is-perpetual-poppycock/"/>
     <id>http://perpetualpoppycock.com/2016/07/15/what-is-perpetual-poppycock/</id>
     <published>2016-07-14T19:00:00-05:00</published>
-    <updated>2017-02-27T14:54:37-06:00</updated>
+    <updated>2017-02-28T14:09:04-06:00</updated>
     <author>
       <name>Ashley Whitcher</name>
     </author>
